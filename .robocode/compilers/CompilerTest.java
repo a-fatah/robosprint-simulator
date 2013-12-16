@@ -1,0 +1,1 @@
+/usr/share/robocode/CompilerTest.java
